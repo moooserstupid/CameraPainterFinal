@@ -1,0 +1,6 @@
+﻿  camera_painter.cpp
+C:\MyThings\Data\CodingProjects\CameraPainterFinal\CameraPainter\CameraPainter\camera_painter.cpp(35,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\MyThings\Data\CodingProjects\CameraPainterFinal\CameraPainter\CameraPainter\camera_painter.cpp(43,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  CameraPainter.vcxproj -> C:\MyThings\Data\CodingProjects\CameraPainterFinal\CameraPainter\x64\Debug\CameraPainter.exe
